@@ -1,2 +1,3 @@
 print("Hello world")
-printf("Hello Mhatre")
+print("Hello Vishal")
+print("Hi how are you")
